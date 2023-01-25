@@ -4,6 +4,8 @@ import AnimatedPage from "../Framer/AnimatedPage";
 
 function Home() {
   return (
+
+    
     <AnimatedPage>
       <div className="mt-10">
         <div className="container flex flex-col items-center justify-center">
